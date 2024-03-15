@@ -1,7 +1,8 @@
 import "./App.css";
+import FullPage from "./HomePage/FullPage/FullPage";
 
 function App() {
-  return <div>Starting point</div>;
+  return <FullPage />;
 }
 
 export default App;

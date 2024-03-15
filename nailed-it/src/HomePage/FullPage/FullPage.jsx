@@ -1,4 +1,4 @@
 const FullPage = () => {
-  return <div>FullPage</div>;
+  return <div className="text-2xl">FullPage</div>;
 };
 export default FullPage;
